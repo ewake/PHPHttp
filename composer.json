@@ -1,0 +1,8 @@
+{
+    "name": "ewake/PHPHttp",
+    "description": "PHP Class for Handling .htpasswd and .htgroup (Member Login & User Management)",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+    }
+}
